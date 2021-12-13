@@ -1,0 +1,36 @@
+.send_btn{
+    padding-left: 147px;
+    padding-right: 147px;
+    font-size: 20px;
+    background-color: #21215f;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+h1{
+    font-size: 60px;
+}
+input{
+    width: 400px;
+}
+.desc{
+    padding-bottom: 100px;
+}
+
+img{
+    height: 700px;
+    width: 800px;
+    top:0;
+    margin-top: 0;
+    position: absolute;
+    left:0;
+    bottom: 0;
+    margin-bottom: 0;
+}
+
+.text{
+    right: 100px;
+    position: absolute;
+    top:0;
+}
